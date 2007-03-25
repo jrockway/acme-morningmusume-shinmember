@@ -1,0 +1,7 @@
+META.yml
+Makefile
+Acme-MorningMusume-ShinMember-*
+blib
+inc
+pm_to_blib
+cover_db
